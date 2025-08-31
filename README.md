@@ -55,16 +55,6 @@ Dataset link: [Diabetes CSV (Plotly Datasets)](https://raw.githubusercontent.com
 
 ---
 
-## 📊 Sample Results
-*(Update this with your actual results)*  
-
-- **Best Model:** Random Forest  
-- **Accuracy:** XX%  
-- **F1-score:** XX%  
-- **ROC-AUC:** XX  
-
----
-
 ## 🛠️ Tech Stack
 
 - Python  

@@ -66,7 +66,7 @@ for metric_name, metric_function in evaluation.items():
   print("Result:\n", result)
   print("-" * 50)
 
-print("✅ Evaluation completed.")
+print("Evaluation completed.")
 
 """##Model Deployment"""
 
